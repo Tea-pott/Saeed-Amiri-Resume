@@ -1515,7 +1515,7 @@ fieldset[disabled]
 }
 
 .btn-primary {
-  background-color: #378C3F;
+  background-color: #242582;
   color: #FFFFFF;
 }
 
@@ -1523,7 +1523,7 @@ fieldset[disabled]
 .show > .btn-primary.dropdown-toggle,
 .show > .btn-primary.dropdown-toggle:focus,
 .show > .btn-primary.dropdown-toggle:hover {
-  background-color: #40a249;
+  background-color: #242682bd;
   color: #FFFFFF;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -5618,7 +5618,7 @@ Created using IcoMoon - icomoon.io
     /* For Opera 11.1 to 12.0 */
     /* For Firefox 3.6 to 15 */
     background: -webkit-gradient(linear, left top, left bottom, from(#378C3F), color-stop(80%, #000));
-    background: linear-gradient(#378C3F 0%, #000 80%);
+    background: linear-gradient(#242582 0%, #000 80%);
     /* Standard syntax (must be last) */
     opacity: 0.76;
     filter: alpha(opacity=76);
